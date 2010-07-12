@@ -1,0 +1,17 @@
+{
+    "MirrorList": [
+	"http://mitsov.nbu.bg/updates/",
+    ],
+    "UpdateList": [
+    	{   
+            "mod": "CyanogenMod-5.0.8",
+            "board": "hero",
+            "type": "rom",
+            "name": "Update 03",
+            "version": "5.0.8",
+            "description": "Facebook sync update",
+            "branch": "S",
+            "filename": "update_03.zip"
+        },
+		]
+}
