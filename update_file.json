@@ -24,4 +24,18 @@
             "filename": "CMH-1.3.zip"
         },
 		]
+
+    "IncrementalUpdateList": [
+        {
+            "mod": "CMH-1.3",
+            "board": "hero",
+            "type": "rom",
+            "name": "CMH-1.3.6",
+            "version": "1.3.6",
+            "versionForApply": "1.3",
+            "description": "See http://forum.xda-developers.com/showthread.php?t=708673 for changelog",
+            "branch": "S",
+            "filename": "update-CMH-1.3.6.zip"
+        },
+
 }
