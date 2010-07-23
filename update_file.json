@@ -1,7 +1,7 @@
 {
     "MirrorList": [
-	"http://kenli.nbu.bg/updates/",
 	"http://raswill.se/cyanupdater/",
+	"http://kenli.nbu.bg/updates/"
     ],
     "UpdateList": [
     	{   
