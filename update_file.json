@@ -1,7 +1,7 @@
 {
     "MirrorList": [
 	"http://raswill.se/cyanupdater/",
-	"http://kenli.nbu.bg/updates/"
+	"http://kenli.nbu.bg/updates/",
     ],
     "UpdateList": [
     	{   
@@ -23,7 +23,7 @@
             "description": "Merge with CMH",
             "branch": "S",
             "filename": "CMH-1.3.zip"
-        },
+        }
 		],
 
     "IncrementalUpdateList": [
@@ -37,6 +37,6 @@
             "description": "See http://forum.xda-developers.com/showthread.php?t=708673 for changelog",
             "branch": "S",
             "filename": "update-CMH-1.3.6.zip"
-        },
+        }
 		]
 }
