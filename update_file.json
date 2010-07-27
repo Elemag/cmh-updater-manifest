@@ -1,0 +1,32 @@
+{
+    "MirrorList": [
+	"http://kenli.nbu.bg/updates/",
+	"http://raswill.se/cyanupdater/"
+    ],
+    "UpdateList": [
+    	{   
+            "mod": "CMH-1.3",
+            "board": "hero",
+            "type": "rom",
+            "name": "CMH-1.4",
+            "version": "CMH 1.4",
+            "description": "CMH version 1.4",
+            "branch": "S",
+            "filename": "CMH-1.4.zip"
+        }
+		],
+}
+    "IncrementalUpdateList": [
+        {
+            "mod": "CMH-1.4",
+            "board": "hero",
+            "type": "rom",
+            "name": "CMH-1.4.1",
+            "version": "1.4.1",
+            "versionForApply": "1.4",
+            "description": "See http://forum.xda-developers.com/showthread.php?t=708673 for changelog",
+            "branch": "S",
+            "filename": "update-CMH-1.4.1.zip"
+        }
+		]
+}
