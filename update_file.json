@@ -3,7 +3,6 @@
 	"http://kenli.nbu.bg/updates/",
 	"http://raswill.se/cyanupdater/"
     ],
-}
     "IncrementalUpdateList": [
         {
             "mod": "CMH-1.4",
