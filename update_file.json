@@ -3,18 +3,6 @@
 	"http://kenli.nbu.bg/updates/",
 	"http://raswill.se/cyanupdater/"
     ],
-    "UpdateList": [
-    	{   
-            "mod": "CMH-1.3",
-            "board": "hero",
-            "type": "rom",
-            "name": "CMH-1.4.1",
-            "version": "CMH 1.4.1",
-            "description": "CMH version 1.4.1",
-            "branch": "S",
-            "filename": "CMH-1.4.1.zip"
-        }
-		],
 }
     "IncrementalUpdateList": [
         {
