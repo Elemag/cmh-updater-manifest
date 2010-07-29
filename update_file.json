@@ -14,6 +14,28 @@
             "description": "See http://forum.xda-developers.com/showthread.php?t=708673 for changelog",
             "branch": "S",
             "filename": "update-CMH-1.4.1.zip"
+        },
+        {
+            "mod": "CMH-1.4",
+            "board": "hero",
+            "type": "rom",
+            "name": "CMH-1.4.2",
+            "version": "1.4.2",
+            "versionForApply": "1.4",
+            "description": "See http://forum.xda-developers.com/showthread.php?t=708673 for changelog",
+            "branch": "S",
+            "filename": "update-CMH-1.4.2.zip"
+        },
+        {
+            "mod": "CMH-1.4.1",
+            "board": "hero",
+            "type": "rom",
+            "name": "CMH-1.4.2",
+            "version": "1.4.2",
+            "versionForApply": "1.4.1",
+            "description": "See http://forum.xda-developers.com/showthread.php?t=708673 for changelog",
+            "branch": "S",
+            "filename": "update-CMH-1.4.2.zip"
         }
 		]
 }
